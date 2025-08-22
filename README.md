@@ -1,7 +1,6 @@
 ![Tela de Login](screenshots/login_ipv4.png)
 ![Tela de Menu](screenshots/menu_ipv4.png)
 ![Tela do Quizz](screenshots/quiz_ipv4.png)
-![Tela em jogo do Quizz](screenshots/quizz.png)
 ![Tela de Ranking](screenshots/ranking_ipv4.png)
 
 # IPv4 Quiz App
