@@ -27,7 +27,7 @@ Este é um aplicativo Flutter desenvolvido para ajudar na capacitação sobre IP
 
 ```bash
 # Clone este repositório
-git clone https://github.com/goncaloliveira-dev/ipv4-quiz.git
+git clone https://github.com/goncalo-codes/ipv4-quiz.git
 
 # Entre na pasta do projeto
 cd ipv4-quiz
