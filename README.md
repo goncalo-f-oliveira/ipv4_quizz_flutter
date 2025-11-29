@@ -63,7 +63,7 @@ Este projeto foi realizado de forma **individual**, como parte de um **trabalho 
 
 ```bash
 # Clone this repository
-git clone https://github.com/goncalo-codes/ipv4-quiz.git
+git clone https://github.com/goncalo-f-oliveira/ipv4-quiz.git
 
 # Enter the project folder
 cd ipv4-quiz
